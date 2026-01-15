@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Yeosu",
+    "row_start": 1326,
+    "row_end": 1549,
+    "col_start": 1670,
+    "col_end": 1967,
+    "lat_top_left": 34.97857666015625,
+    "lon_top_left": 127.12828826904297,
+    "width_pixels": 297,
+    "height_pixels": 223,
+    "total_pixels": 66231,
+    "timestamp": "20260115_085505"
+  },
+  {
+    "name": "Tongyeong",
+    "row_start": 1295,
+    "row_end": 1507,
+    "col_start": 1901,
+    "col_end": 2166,
+    "lat_top_left": 35.073238372802734,
+    "lon_top_left": 127.78184509277344,
+    "width_pixels": 265,
+    "height_pixels": 212,
+    "total_pixels": 56180,
+    "timestamp": "20260115_085632"
+  },
+  {
+    "name": "Busan",
+    "row_start": 1209,
+    "row_end": 1414,
+    "col_start": 2165,
+    "col_end": 2434,
+    "lat_top_left": 35.33953094482422,
+    "lon_top_left": 128.53150939941406,
+    "width_pixels": 269,
+    "height_pixels": 205,
+    "total_pixels": 55145,
+    "timestamp": "20260115_090018"
+  },
+  {
+    "name": "Goheung",
+    "row_start": 1386,
+    "row_end": 1594,
+    "col_start": 1522,
+    "col_end": 1752,
+    "lat_top_left": 34.79497146606445,
+    "lon_top_left": 126.712890625,
+    "width_pixels": 230,
+    "height_pixels": 208,
+    "total_pixels": 47840,
+    "timestamp": "20260115_090053"
+  },
+  {
+    "name": "Wando",
+    "row_start": 1357,
+    "row_end": 1612,
+    "col_start": 1296,
+    "col_end": 1582,
+    "lat_top_left": 34.886627197265625,
+    "lon_top_left": 126.07149505615234,
+    "width_pixels": 286,
+    "height_pixels": 255,
+    "total_pixels": 72930,
+    "timestamp": "20260115_090124"
+  }
+]

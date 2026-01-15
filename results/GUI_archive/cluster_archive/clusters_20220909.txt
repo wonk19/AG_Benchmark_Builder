@@ -1,0 +1,235 @@
+Archive Summary for Date: 20220909
+======================================================================
+
+Total Clusters: 30
+Total Pixels: 2,698
+Number of Source Files: 2
+
+======================================================================
+Breakdown by Source File:
+======================================================================
+
+Source: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Clusters: 21
+  Total Pixels: 2,249
+  Cluster IDs: [np.int32(213), np.int32(516), np.int32(522), np.int32(1029), np.int32(1030), np.int32(1031), np.int32(1033), np.int32(1065), np.int32(1067), np.int32(1081), np.int32(1083), np.int32(1084), np.int32(1086), np.int32(1087), np.int32(1276), np.int32(1307), np.int32(1308), np.int32(1310), np.int32(1311), np.int32(1314), np.int32(1320)]
+
+Source: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Clusters: 9
+  Total Pixels: 449
+  Cluster IDs: [np.int32(521), np.int32(714), np.int32(1474), np.int32(1611), np.int32(1615), np.int32(1617), np.int32(1825), np.int32(1853), np.int32(1858)]
+
+======================================================================
+Detailed Cluster Information:
+======================================================================
+
+Cluster ID: 213
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 28
+  Timestamp: 20260115_101828
+  Latitude Range: [34.4289, 34.4472]
+  Longitude Range: [127.3358, 127.3555]
+
+Cluster ID: 516
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 46
+  Timestamp: 20260115_104130
+  Latitude Range: [34.4196, 34.4563]
+  Longitude Range: [127.4228, 127.4511]
+
+Cluster ID: 521
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 10
+  Timestamp: 20260115_103213
+  Latitude Range: [34.4048, 34.4140]
+  Longitude Range: [127.1563, 127.1620]
+
+Cluster ID: 522
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 11
+  Timestamp: 20260115_104230
+  Latitude Range: [34.3890, 34.4043]
+  Longitude Range: [127.4599, 127.4711]
+
+Cluster ID: 714
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 55
+  Timestamp: 20260115_103053
+  Latitude Range: [34.2586, 34.2890]
+  Longitude Range: [127.1247, 127.1528]
+
+Cluster ID: 1029
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 113
+  Timestamp: 20260115_101541
+  Latitude Range: [34.5600, 34.6243]
+  Longitude Range: [127.5675, 127.6102]
+
+Cluster ID: 1030
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 51
+  Timestamp: 20260115_101541
+  Latitude Range: [34.5967, 34.6243]
+  Longitude Range: [127.5816, 127.6240]
+
+Cluster ID: 1031
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 256
+  Timestamp: 20260115_101450
+  Latitude Range: [34.5447, 34.6213]
+  Longitude Range: [127.5027, 127.5765]
+
+Cluster ID: 1033
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 13
+  Timestamp: 20260115_202544
+  Latitude Range: [34.5354, 34.5446]
+  Longitude Range: [127.6667, 127.6807]
+
+Cluster ID: 1065
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 125
+  Timestamp: 20260115_101827
+  Latitude Range: [34.4167, 34.4594]
+  Longitude Range: [127.3416, 127.4005]
+
+Cluster ID: 1067
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 21
+  Timestamp: 20260115_101828
+  Latitude Range: [34.4135, 34.4349]
+  Longitude Range: [127.4089, 127.4288]
+
+Cluster ID: 1081
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 436
+  Timestamp: 20260115_101828
+  Latitude Range: [34.3040, 34.7440]
+  Longitude Range: [127.1506, 127.6700]
+
+Cluster ID: 1083
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 160
+  Timestamp: 20260115_102911
+  Latitude Range: [34.4285, 34.5142]
+  Longitude Range: [127.5038, 127.5776]
+
+Cluster ID: 1084
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 11
+  Timestamp: 20260115_101828
+  Latitude Range: [34.4321, 34.4535]
+  Longitude Range: [127.2684, 127.2739]
+
+Cluster ID: 1086
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 76
+  Timestamp: 20260115_101828
+  Latitude Range: [34.4076, 34.4322]
+  Longitude Range: [127.2403, 127.3163]
+
+Cluster ID: 1087
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 142
+  Timestamp: 20260115_101828
+  Latitude Range: [34.3467, 34.3742]
+  Longitude Range: [127.2187, 127.3479]
+
+Cluster ID: 1276
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 20
+  Timestamp: 20260115_202553
+  Latitude Range: [34.5323, 34.5507]
+  Longitude Range: [127.6695, 127.6892]
+
+Cluster ID: 1307
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 154
+  Timestamp: 20260115_101541
+  Latitude Range: [34.6397, 34.7471]
+  Longitude Range: [127.4568, 127.5053]
+
+Cluster ID: 1308
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 284
+  Timestamp: 20260115_101624
+  Latitude Range: [34.2981, 34.9404]
+  Longitude Range: [127.1522, 127.9585]
+
+Cluster ID: 1310
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 157
+  Timestamp: 20260115_101714
+  Latitude Range: [34.4835, 34.5661]
+  Longitude Range: [127.5685, 127.6104]
+
+Cluster ID: 1311
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 123
+  Timestamp: 20260115_101642
+  Latitude Range: [34.4928, 34.5509]
+  Longitude Range: [127.4752, 127.5376]
+
+Cluster ID: 1314
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 11
+  Timestamp: 20260115_101701
+  Latitude Range: [34.4591, 34.4714]
+  Longitude Range: [127.5350, 127.5408]
+
+Cluster ID: 1320
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1326-1549_1670-1967_Yeosu.npz
+  Number of Pixels: 11
+  Timestamp: 20260115_101827
+  Latitude Range: [34.4260, 34.4352]
+  Longitude Range: [127.2628, 127.2741]
+
+Cluster ID: 1474
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 17
+  Timestamp: 20260115_103325
+  Latitude Range: [34.4474, 34.4657]
+  Longitude Range: [127.2680, 127.2766]
+
+Cluster ID: 1611
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 157
+  Timestamp: 20260115_103325
+  Latitude Range: [34.2804, 34.7046]
+  Longitude Range: [126.9562, 127.3509]
+
+Cluster ID: 1615
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 109
+  Timestamp: 20260115_103031
+  Latitude Range: [34.4015, 34.4443]
+  Longitude Range: [127.2488, 127.3079]
+
+Cluster ID: 1617
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 17
+  Timestamp: 20260115_103304
+  Latitude Range: [34.2950, 34.3072]
+  Longitude Range: [127.2223, 127.2392]
+
+Cluster ID: 1825
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 12
+  Timestamp: 20260115_103213
+  Latitude Range: [34.4048, 34.4171]
+  Longitude Range: [127.1618, 127.1703]
+
+Cluster ID: 1853
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 39
+  Timestamp: 20260115_103225
+  Latitude Range: [34.2407, 34.2560]
+  Longitude Range: [126.9594, 126.9960]
+
+Cluster ID: 1858
+  Source File: GK2B_GOCI2_L2_20220909_041530_LA_S007_AC_cropped_1386-1594_1522-1752_Goheung.npz
+  Number of Pixels: 33
+  Timestamp: 20260115_103104
+  Latitude Range: [34.4289, 34.4472]
+  Longitude Range: [127.3358, 127.3583]
+
